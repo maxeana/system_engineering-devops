@@ -1,0 +1,16 @@
+total 19
+drwxr-xr-x 1 MAXEANA 197121   0 Jul 31 02:21 .
+drwxr-xr-x 1 MAXEANA 197121   0 Jul 27 18:15 ..
+-rw-r--r-- 1 MAXEANA 197121   0 Jul 27 18:15 .gitkeep
+-rwxr-xr-x 1 MAXEANA 197121  32 Jul 27 18:34 0-hello_world
+-rwxr-xr-x 1 MAXEANA 197121  30 Jul 27 20:49 1-confused_smiley
+-rwxr-xr-x 1 MAXEANA 197121  28 Jul 27 21:29 2-hellofile
+-rwxr-xr-x 1 MAXEANA 197121  39 Jul 27 21:35 3-twofiles
+-rwxr-xr-x 1 MAXEANA 197121  29 Jul 28 00:04 4-lastlines
+-rwxr-xr-x 1 MAXEANA 197121  35 Jul 28 23:18 5-firstlines
+-rwxr-xr-x 1 MAXEANA 197121  40 Jul 29 00:06 6-third_line
+-rwxr-xr-x 1 MAXEANA 197121  77 Jul 31 02:17 7-file
+-rwxr-xr-x 1 MAXEANA 197121  36 Jul 31 02:21 8-cwd_state
+-rw-r--r-- 1 MAXEANA 197121 134 Jul 27 18:31 README.md
+-rw-r--r-- 1 MAXEANA 197121  51 Jul 29 00:17 iacta
+-rw-r--r-- 1 MAXEANA 197121   0 Jul 31 02:21 ls_cwd_content
