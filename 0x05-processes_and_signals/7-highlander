@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# A Bash script that can react to signals sent to it
+
+trap 'echo "I am invincible!!!"' SIGTERM
+
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
+
